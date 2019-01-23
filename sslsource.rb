@@ -1,4 +1,4 @@
-class sslsource < Formula
+class SSLSource < Formula
   desc "The agent for https://sslsource.io"
   homepage "https://sslsource.io"
   url "http://archive.sslsource.io/darwin/sslsource_1.0.1-darwin_amd64.tgz"
